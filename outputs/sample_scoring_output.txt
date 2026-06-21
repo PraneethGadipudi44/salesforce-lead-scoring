@@ -1,0 +1,15 @@
+Sample Lead Scoring Output
+===========================
+
+Lead 1
+Attributes: {'State': 'California', 'LeadSource': 'Adwords', 'WebsiteVisits': 20, 'CompanySize': 70, 'EmailOpens': 18, 'EmailClicks': 9}
+Result: probability=0.9967, lead_score=99.7, action=High Priority
+
+Lead 2
+Attributes: {'State': 'Texas', 'LeadSource': 'Print', 'WebsiteVisits': 8, 'CompanySize': 70, 'EmailOpens': 10, 'EmailClicks': 4}
+Result: probability=0.6933, lead_score=69.3, action=Medium Priority
+
+Lead 3
+Attributes: {'State': 'Ohio', 'LeadSource': 'Tradeshow', 'WebsiteVisits': 4, 'CompanySize': 180, 'EmailOpens': 2, 'EmailClicks': 0}
+Result: probability=0.01, lead_score=1.0, action=Low Priority
+
